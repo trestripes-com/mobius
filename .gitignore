@@ -1,5 +1,4 @@
-*.pyc
-*.pt
-*.csv
-*.xls
-data/
+.direnv/
+
+.ipynb_checkpoints/
+__pycache__/
